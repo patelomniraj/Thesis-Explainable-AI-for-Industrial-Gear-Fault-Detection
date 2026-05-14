@@ -11,9 +11,9 @@
 | **Project Title** | GearMind AI: Full-Stack Industrial Gear Fault Detection & Predictive Maintenance Dashboard |
 | **Author** | Om Patel |
 | **Guide** | Dr. Kinjal Joshi |
-| **Industry Mentor** | Satyam Raval (Tech Elecon Pvt. Ltd.) |
+| **Industry Mentor** | Mr. Satyam Raval (General Manager at Tech Elecon Pvt. Ltd.) |
 | **Institution** | G H Patel College of Engineering & Technology (GCET), CVM University |
-| **Degree** | Bachelor of Engineering (B.E.) in Computer Science and Design |
+| **Degree** | Bachelor of Technology(B.Tech.) in Computer Science and Design |
 | **Internship Company** | Tech Elecon Pvt. Ltd., Anand, Gujarat |
 | **Internship Duration** | 16 weeks (January 1 - April 30, 2026) |
 | **Location** | Vallabh Vidyanagar, Gujarat, India |
